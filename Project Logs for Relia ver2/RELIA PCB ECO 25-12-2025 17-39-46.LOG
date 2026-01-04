@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetR1_1 New Net Name=USB4_N
+Change Net Name : Old Net Name=NetR7_1 New Net Name=USB4_P
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Added Differential Pair: Name=USB4

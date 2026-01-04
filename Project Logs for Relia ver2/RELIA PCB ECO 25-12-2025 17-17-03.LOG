@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=U7-V
+Removed Pin From Net: NetName=GND Pin=U7-V
+Removed Pin From Net: NetName=GND Pin=U7-V
+Removed Pin From Net: NetName=GND Pin=U7-V
+Change Component Footprint: Designator=D1 Old Footprint=FP-95402-MFG New Footprint=FP-95400-MFG
+Change Component Comment : Designator=D1 Old Comment=SS34-E3/57T New Comment=SSA34HE3_A/I
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=01A089AD-1DB9-4BD0-BF24-FF914B2303C6 New ItemGUID=8E09CEF7-F812-46D3-A2A7-181643D575CA Old RevisionGUID=F470FA24-9F41-4717-BCBB-76ABD9B8BA16 New RevisionGUID=BEE185FA-AAAA-486F-9B3C-49760153BB2E
+Change component parameters: Designator = "D1" ("D1"); Footprint = "FP-95402-MFG"; UniqueID = "\DYRVGFPP\JUWUPXPC" ("\DYRVGFPP\JUWUPXPC")
+Change component parameters (AddParameter): Name = "Average Rectified Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "380mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Current"; Value = "17mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "7500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Non-Repetitive Surge Current"; Value = "75A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage (DC)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Automotive, AEC-Q101"; VariantName = "[No Variations]"
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

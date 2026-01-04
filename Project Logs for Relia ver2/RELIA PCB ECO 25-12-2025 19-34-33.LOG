@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+5V Pin=D2-1
+Removed Pin From Net: NetName=+5V Pin=J4-1
+Change Component Description : Designator=A1 Old Description=Sensor;MS5611-BT M-CAPS 3X5X1MM T&R;Pressure;MS561101BA03-50 New Description=Sensor;MS5611-BT M-CAPS 3X5X1MM T&R;Pressure;MS561101BA03-50 | TE Connectivity MS561101BA03-50
+Added Pin To Net: NetName=VDD_5V Pin=D2-1
+Added Pin To Net: NetName=VDD_5V Pin=J4-1
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator

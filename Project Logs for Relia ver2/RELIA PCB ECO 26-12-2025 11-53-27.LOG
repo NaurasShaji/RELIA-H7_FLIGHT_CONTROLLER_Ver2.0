@@ -1,0 +1,8 @@
+Change Component Description : Designator=A1 Old Description=Sensor;MS5611-BT M-CAPS 3X5X1MM T&R;Pressure;MS561101BA03-50 New Description=Sensor;MS5611-BT M-CAPS 3X5X1MM T&R;Pressure;MS561101BA03-50 | TE Connectivity MS561101BA03-50
+Change Net Name : Old Net Name=CAN_RX1 New Net Name=CANRX_N
+Change Net Name : Old Net Name=CAN_TX1 New Net Name=CANTX_P
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Differential Pair: Number of nets in differential pair CANRX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CANTX is 1 instead of 2

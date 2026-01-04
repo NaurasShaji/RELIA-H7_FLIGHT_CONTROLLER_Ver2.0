@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=SD_D2
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=SD_D3
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=SD_CMD
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=SD_CLK
+Change Net Name : Old Net Name=NetJ3_7 New Net Name=SD_DO
+Change Net Name : Old Net Name=NetJ3_8 New Net Name=SD_D1
+Change Net Name : Old Net Name=NetJ3_SWB New Net Name=SD_DETECT

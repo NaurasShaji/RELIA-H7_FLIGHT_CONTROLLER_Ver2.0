@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=U7-V
+Removed Pin From Net: NetName=GND Pin=U7-V
+Removed Pin From Net: NetName=GND Pin=U7-V
+Removed Pin From Net: NetName=GND Pin=U7-V
+Change Component Description : Designator=A1 Old Description=Sensor;MS5611-BT M-CAPS 3X5X1MM T&R;Pressure;MS561101BA03-50 New Description=Sensor;MS5611-BT M-CAPS 3X5X1MM T&R;Pressure;MS561101BA03-50 | TE Connectivity MS561101BA03-50
+Added Pin To Net: NetName=NetC23_1 Pin=R20-1
+Added Pin To Net: NetName=NetC23_1 Pin=U9-3
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NRST
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Differential Pair: Number of nets in differential pair CANRX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CANTX is 1 instead of 2

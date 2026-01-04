@@ -1,0 +1,11 @@
+Change Net Name : Old Net Name=NetD7_1 New Net Name=RX
+Change Net Name : Old Net Name=NetD8_1 New Net Name=PWM3
+Change Net Name : Old Net Name=NetD8_3 New Net Name=PWM4
+Change Net Name : Old Net Name=NetD8_4 New Net Name=PWM1
+Change Net Name : Old Net Name=NetD8_6 New Net Name=PWM2
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=USART2_RX
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=USART1_TX
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=USART1_RX
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=CURR
+Change Net Name : Old Net Name=NetJ9_5 New Net Name=GPS_SDA
+Change Net Name : Old Net Name=NetJ9_6 New Net Name=GPS_SCL

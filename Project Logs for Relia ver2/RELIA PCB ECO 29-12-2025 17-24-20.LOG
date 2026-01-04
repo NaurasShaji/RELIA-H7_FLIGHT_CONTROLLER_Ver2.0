@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NRST Pin=R20-1
+Removed Pin From Net: NetName=NRST Pin=U9-3
+Added Pin To Net: NetName=+3V3_MAIN Pin=R20-1
