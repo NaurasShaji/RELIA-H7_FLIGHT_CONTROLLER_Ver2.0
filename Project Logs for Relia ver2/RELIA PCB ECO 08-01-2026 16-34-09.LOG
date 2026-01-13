@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=U8 Old DesignItemId=CMP-04910-000009-1 New DesignItemId=
+Change Footprint: Footprint Not Found FP-RUX0012A-MFG
+Change Component Library : Designator=U8 Old Library=TPS2121RUXR.IntLib New Library=TPS2121RUXR.SchLib
+Change Managed Component Library Link : Designator=U8 Old VaultGUID= New VaultGUID= Old ItemGUID=6B0D3557-6A7E-4F69-89E7-F6D0555DB891 New ItemGUID= Old RevisionGUID=8A4A6394-812C-4FC2-B87A-FCFE4D0F2C36 New RevisionGUID=

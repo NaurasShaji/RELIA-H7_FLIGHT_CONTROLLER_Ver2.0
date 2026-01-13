@@ -1,0 +1,28 @@
+Added Component: Designator=U8(IC_TPS2121RUXR)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS2121RUXR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS2121RUXR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VQFN-HR-12 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=TPS2121RUXR&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS2121RUXR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_5V Pin=U8-1_1
+Added Pin To Net: NetName=VDD_5V Pin=U8-1
+Added Pin To Net: NetName=VBUS Pin=U8-2_1
+Added Pin To Net: NetName=VBUS Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=NetR38_1 Pin=U8-4
+Added Pin To Net: NetName=NetR35_1 Pin=U8-5
+Added Pin To Net: NetName=GND Pin=U8-6
+Added Pin To Net: NetName=BEC_5V Pin=U8-7_1
+Added Pin To Net: NetName=BEC_5V Pin=U8-7
+Added Pin To Net: NetName=VDD_5V Pin=U8-8_1
+Added Pin To Net: NetName=VDD_5V Pin=U8-8
+Added Pin To Net: NetName=NetR40_1 Pin=U8-10
+Added Pin To Net: NetName=NetC50_2 Pin=U8-11
+Added Pin To Net: NetName=GND Pin=U8-12
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
+Add Class: Class already exists: Designator
