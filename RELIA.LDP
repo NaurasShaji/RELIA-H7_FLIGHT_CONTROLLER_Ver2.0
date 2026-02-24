@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\easy eda\RELIA.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=relia-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=relia-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=relia-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl
